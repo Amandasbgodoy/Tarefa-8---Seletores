@@ -1,0 +1,41 @@
+
+.red {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: -1px solid white;
+    margin: 0.5px;
+}
+.redb {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 3px solid black;
+    margin: 0.5px;
+}
+.ligthblue {
+    background-color: lightseagreen;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: -1px solid white;
+    margin: 0.5px;
+}
+.green {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: -1px solid white;
+    margin: 0.5px;
+}
+.yellow {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: -1px solid white;
+    margin: 0.5px;
+}
